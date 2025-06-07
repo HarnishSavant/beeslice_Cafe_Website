@@ -1,0 +1,16 @@
+.hdf{
+	font-size: 20px;
+	letter-spacing: 1px;
+	font-weight: 400;
+	margin: 0;
+	padding: 0;
+	color: #7f7f90;
+}
+.b:hover{
+	background-color:white;
+	color:black;
+}
+.ff{
+	font-family: Perpetua;
+	font-size: 130%;
+}
